@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+	
+  }
+form {
+	background-color: #FFFFFF;
+	border: 3px solid #000000;
+	padding: 5px;
+}
+
+input,
+    textarea {
+    width: 100%;
+    padding: 5px;
+    outline: none;
+  }
+
+  label {
+    line-height: 1.9rem;
+  }
+
+  input[type="submit"] {
+   
+   padding: 3px;
+   margin-top: 0.6rem;
+   font-family: cursive;
+   font-weight: bold;
+  }
+
+ fieldset {
+   padding: 60px 50px;
+ }
